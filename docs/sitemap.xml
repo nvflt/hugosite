@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nvflt.github.io/posts/new/</loc>
+    <lastmod>2020-07-26T02:06:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nvflt.github.io/posts/</loc>
+    <lastmod>2020-07-26T02:06:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nvflt.github.io/</loc>
+    <lastmod>2020-07-26T02:06:04+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nvflt.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://nvflt.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nvflt.github.io/</loc>
   </url>
   
 </urlset>
